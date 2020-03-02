@@ -1,5 +1,5 @@
 <?php
-$string = "Hello world. Beautiful day today.";
+$string = "Hello Charlie. I am also Charlie";
 $token = strtok($string, " ");
 
 while ($token !== false)
